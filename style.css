@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+  
+  /*Estilização da header*/
+  header {
+    /* border: solid black; */
+    background-color: #A620D6;
+    height: 152px; /*altura*/
+    padding-left: 30px; */
+  }
+  
+  /* nav {
+    border: solid red; 
+     padding-left: 50px; 
+  }*/
+  
+  /* ul {
+    border: solid white; 
+    padding-left: 30px;
+  } */
+  
+  li {
+    font-size: 32px;
+    font-weight: 400;
+    display: inline-block;
+    /* border: solid black; */
+    margin-left: 77px;
+    margin-top: 10px;
+    color: white;
+   padding-top: 25px;
+  }
+  
+  /*Estilização da main*/
+
+  .loja {
+    display: inline-block;
+    /*border: solid red;*/
+    margin-left: 110px;
+    margin-top: 60px;
+    padding-left: 20px;
+    
+  }
+
+label {
+  padding: 5px;
+}
+  img {
+      width: 200px;
+      margin-right: 12px;
+  }
+  
+  button {
+    margin-left: 50px;
+  }
+
+  h3 {
+    font-size: 28px;
+    margin-left: 20px;
+    
+  }
+
+  form {
+
+justify-content: center; 
+display: flex;
+/*flex-direction: row-reverse;*/
+align-items: center;
+
+
+}
+
+  footer {
+   background-color: #E8A6FF;
+   padding-left: 100px;
+   padding-block: 20px;
+   margin-top: 90px;
+   
+  }
